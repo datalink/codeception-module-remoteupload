@@ -1,7 +1,7 @@
 {
   "name": "datalink/codeception-module-remoteupload",
   "description": "Codeception module that provides the ability to upload files to regular (non-clientRendered) file fields via Codeception, forked from https://github.com/DigitalProducts/codeception-module-remoteupload",
-  "keywords": ["codeception", "saucelabs", "metadata"],
+  "keywords": ["codeception", "metadata"],
   "homepage": "https://github.com/datalink/codeception-module-remoteupload",
   "type": "library",
   "license": "MIT",
@@ -12,7 +12,7 @@
     }
   ],
   "require": {
-    "php": ">=5.3.3",
+    "php": ">=5.3.3"
   },
   "require-dev": {
     "codeception/codeception": ">=2.0.2"
